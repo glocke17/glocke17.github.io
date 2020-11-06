@@ -6,27 +6,27 @@ body {
 
 
 h1 {
-  font-family:"Times New Roman", Times, serif;
+  ;font-family:"Times New Roman", Times, serif;
   text-align:center;
 }
 
 p {
   margin: 25px 25px 25px 25px;
-  font-family:Verdana, Helvetica, sans-serif;
+  ;font-family:Verdana, Helvetica, sans-serif;
   font-size: 20px;
  
 }
 
 ul {
   margin: 25px 25px 25px 25px;
-  font-family: Verdana, Helvetica, sans-serif;
+  ;font-family: Verdana, Helvetica, sans-serif;
   font-size: 20px;
 
 }
 
 ol {
   margin: 25px 25px 25px 25px
-  font-family: Verdana, Helvetica, sans-serif;
+  ;font-family: Verdana, Helvetica, sans-serif;
   font-size: 20px;
 
 }
